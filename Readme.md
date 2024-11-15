@@ -31,6 +31,11 @@ Jupyter Lab: [Guía de instalación](https://jupyterlab.readthedocs.io/en/stable
     
     b.Para Windows: '< nombre del ambiente >\Scripts\activate
     
-6.Instalar las librerias requeridas para ejecutar la notebook de jupyter desde la terminal: 'pip install -r requirements.txt'
+6. 
+    a. Primero, asegúrate de estar parado en la carpeta en la que guardaste el proyecto, podés usar el comando 'cd /ruta/a/tu/proyecto'
+
+    b. Instalar las librerias requeridas para ejecutar la notebook de jupyter desde la terminal: 'pip install -r requirements.txt'
+
+    c. En caso de tener problemas para instalar las librerias, asegurate de indicar la ruta a tu proyecto 'pip install -r ruta/a/tu/proyecto'git push -u origin master
 
 7.Puedes ejecutar la notebook
